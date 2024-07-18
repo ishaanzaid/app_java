@@ -1,3 +1,4 @@
+package arrey;
 
 public class arrey_last {
 

@@ -1,3 +1,4 @@
+package arrey;
 class Car {
     String name;
     float cost;

@@ -1,3 +1,4 @@
+package arrey;
 import java.util.Scanner;
 
 class arrey1 {
