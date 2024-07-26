@@ -1,4 +1,4 @@
-public class Day23 {
+public class CountOvels {
     public static void main(String[] args) {
 
         String s="RajaRamMohanRoy";
@@ -33,22 +33,6 @@ public class Day23 {
                                     //Mohan
                                     //Roy
         }
-
-        String s3=new String("TAP");
-        System.out.println(s3);
-        s3.concat("ACADEMY");
-        System.out.println(s3);
-
-        String s4=new String("TAP");
-        System.out.println(s4);
-        String s5=s4.concat("ACADEMY");
-        System.out.println(s5);
-
-        String s6=new String("TAP");
-        System.out.println(s6);
-        s6=s6.concat("ACADEMY");
-        System.out.println(s6);
-
 
 
 
